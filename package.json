@@ -1,0 +1,23 @@
+{
+  "name": "hamburger-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moalidv/hamburger-menu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moalidv/hamburger-menu/issues"
+  },
+  "homepage": "https://github.com/moalidv/hamburger-menu#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
